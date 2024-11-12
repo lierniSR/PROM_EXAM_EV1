@@ -4,12 +4,16 @@
         "source": "/home/dm2/.gradle/daemon/8.7/com.example.examen_prom.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.examen_prom.app-debug-32:/layout_lista.xml.flat",
-        "source": "com.example.examen_prom.app-main-34:/layout/lista.xml"
+        "merged": "com.example.examen_prom.app-debug-32:/raw_eliminar.mp3.flat",
+        "source": "com.example.examen_prom.app-main-34:/raw/eliminar.mp3"
     },
     {
         "merged": "/home/dm2/.gradle/daemon/8.7/com.example.examen_prom.app-debug-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
         "source": "/home/dm2/.gradle/daemon/8.7/com.example.examen_prom.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/dm2/.gradle/daemon/8.7/com.example.examen_prom.app-debug-32:/drawable_check_all.xml.flat",
+        "source": "/home/dm2/.gradle/daemon/8.7/com.example.examen_prom.app-main-34:/drawable/check_all.xml"
     },
     {
         "merged": "/home/dm2/.gradle/daemon/8.7/com.example.examen_prom.app-debug-32:/xml_data_extraction_rules.xml.flat",
@@ -70,6 +74,10 @@
     {
         "merged": "/home/dm2/.gradle/daemon/8.7/com.example.examen_prom.app-debug-32:/mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "/home/dm2/.gradle/daemon/8.7/com.example.examen_prom.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/dm2/.gradle/daemon/8.7/com.example.examen_prom.app-debug-32:/layout_item_tesoro.xml.flat",
+        "source": "/home/dm2/.gradle/daemon/8.7/com.example.examen_prom.app-main-34:/layout/item_tesoro.xml"
     },
     {
         "merged": "/home/dm2/.gradle/daemon/8.7/com.example.examen_prom.app-debug-32:/drawable_ic_launcher_foreground.xml.flat",

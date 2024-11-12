@@ -38,7 +38,8 @@
         </activity>
         <activity
             android:name="com.example.examen_prom.TesororLista"
-            android:exported="false" />
+            android:exported="true" >
+        </activity>
 
         <provider
             android:name="androidx.startup.InitializationProvider"

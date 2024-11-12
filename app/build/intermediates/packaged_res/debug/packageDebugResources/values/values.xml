@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="azul">#2196F3</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <string name="aniadir">Añadir tesoro</string>
     <string name="app_name">EXAMEN_PROM</string>
     <string name="bienvenida">Bienvenida Lara Croft</string>
     <string name="btnBienvenida">Lista del tesoro</string>
-    <string name="descripcionApp">Hola Lara Croft, esta aplicacion sirve para que puedas saquear los tesoros de todo el mundo. Esta aplicacion te dejara añadir y eliminar punto especificos del mapa, antes de eliminar se te preguntara si estas segura de eliminar el punto. En cada lista tendras un boton que te llevara al punto concreto del mapa. Clica en el boton para que te lleve a la lista.</string>
+    <string name="descripcionApp">Hola Lara Croft, esta aplicacion sirve para que puedas saquear los tesoros de todo el mundo. Esta aplicacion te dejara añadir y eliminar punto especificos del mapa, antes de eliminar se te preguntara si estas segura de eliminar el punto. En cada lista tendras un boton que te llevara al punto concreto del mapa. Clica en el boton para que te lleve a la lista. Para poder añadir un Tesoro este es el formato que debes seguir: NombreTesoro, Double(latitud), Double(longitud) (TODO SEPARADO POR COMAS)</string>
     <string name="introducirInfo">Introduce las coordenadas</string>
     <style name="Base.Theme.EXAMEN_PROM" parent="Theme.Material3.DayNight.NoActionBar">
         

@@ -9,9 +9,15 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 
 class MainActivity : AppCompatActivity() {
+    /**
+     * Declaracion de variables
+     */
     lateinit var boton : Button
 
 
+    /**
+     * Metodo que se ejecuta al crear la actividad
+     */
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
@@ -25,6 +31,9 @@ class MainActivity : AppCompatActivity() {
         boton.setOnClickListener{onclickBoton()}
     }
 
+    /**
+     * Metodo que llama el listener.
+     */
     fun onclickBoton(){
         val intent = Intent(this, TesororLista::class.java)
         startActivity(intent)

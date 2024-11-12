@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/dm2/Escritorio/EXAMEN_PROM/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/dm2/Escritorio/EXAMEN_PROM/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/dm2/Escritorio/EXAMEN_PROM/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/dm2/Escritorio/EXAMEN_PROM/app/src/main/AndroidManifest.xml:2:1-28:12
+ADDED from /home/dm2/Escritorio/EXAMEN_PROM/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/dm2/Escritorio/EXAMEN_PROM/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/dm2/Escritorio/EXAMEN_PROM/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/dm2/Escritorio/EXAMEN_PROM/app/src/main/AndroidManifest.xml:2:1-29:12
 MERGED from [com.google.android.material:material:1.12.0] /home/dm2/.gradle/caches/transforms-4/86c9a9e55dc8d45fef0ed473fafdfd97/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /home/dm2/.gradle/caches/transforms-4/49f39e5cd8f46d7cfa48f54f13ba4c00/transformed/constraintlayout-2.2.0/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/dm2/.gradle/caches/transforms-4/b44a70d7e195d1f7227b1c5db7398e06/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
@@ -56,8 +56,8 @@ MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/dm2/.gradl
 	xmlns:android
 		ADDED from /home/dm2/Escritorio/EXAMEN_PROM/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/dm2/Escritorio/EXAMEN_PROM/app/src/main/AndroidManifest.xml:5:5-26:19
-INJECTED from /home/dm2/Escritorio/EXAMEN_PROM/app/src/main/AndroidManifest.xml:5:5-26:19
+ADDED from /home/dm2/Escritorio/EXAMEN_PROM/app/src/main/AndroidManifest.xml:5:5-27:19
+INJECTED from /home/dm2/Escritorio/EXAMEN_PROM/app/src/main/AndroidManifest.xml:5:5-27:19
 MERGED from [com.google.android.material:material:1.12.0] /home/dm2/.gradle/caches/transforms-4/86c9a9e55dc8d45fef0ed473fafdfd97/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.12.0] /home/dm2/.gradle/caches/transforms-4/86c9a9e55dc8d45fef0ed473fafdfd97/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /home/dm2/.gradle/caches/transforms-4/49f39e5cd8f46d7cfa48f54f13ba4c00/transformed/constraintlayout-2.2.0/AndroidManifest.xml:7:5-20
@@ -113,9 +113,9 @@ ADDED from /home/dm2/Escritorio/EXAMEN_PROM/app/src/main/AndroidManifest.xml:21:
 	android:name
 		ADDED from /home/dm2/Escritorio/EXAMEN_PROM/app/src/main/AndroidManifest.xml:21:27-74
 activity#com.example.examen_prom.TesororLista
-ADDED from /home/dm2/Escritorio/EXAMEN_PROM/app/src/main/AndroidManifest.xml:24:9-25:47
+ADDED from /home/dm2/Escritorio/EXAMEN_PROM/app/src/main/AndroidManifest.xml:24:9-26:20
 	android:exported
-		ADDED from /home/dm2/Escritorio/EXAMEN_PROM/app/src/main/AndroidManifest.xml:25:21-45
+		ADDED from /home/dm2/Escritorio/EXAMEN_PROM/app/src/main/AndroidManifest.xml:25:21-44
 	android:name
 		ADDED from /home/dm2/Escritorio/EXAMEN_PROM/app/src/main/AndroidManifest.xml:24:19-47
 uses-sdk

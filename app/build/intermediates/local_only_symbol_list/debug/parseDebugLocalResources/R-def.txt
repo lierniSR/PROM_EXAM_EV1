@@ -1,17 +1,23 @@
 R_DEF: Internal format may change without notice
 local
+color azul
 color black
 color white
+drawable check_all
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 id button
+id imagenBorrar
 id main
 id recyclerTesoro
+id textViewTarea
 id texto
 layout activity_main
+layout item_tesoro
 layout lista
 mipmap ic_launcher
 mipmap ic_launcher_round
+raw eliminar
 string aniadir
 string app_name
 string bienvenida

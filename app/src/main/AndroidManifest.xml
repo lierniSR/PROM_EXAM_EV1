@@ -22,7 +22,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".TesororLista"
-                    android:exported="false"/>
+                    android:exported="true">
+        </activity>
     </application>
 
 </manifest>

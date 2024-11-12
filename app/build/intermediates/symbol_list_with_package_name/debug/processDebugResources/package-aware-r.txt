@@ -1370,6 +1370,7 @@ color accent_material_dark
 color accent_material_light
 color androidx_core_ripple_material_light
 color androidx_core_secondary_text_default_material_light
+color azul
 color background_floating_material_dark
 color background_floating_material_light
 color background_material_dark
@@ -3008,6 +3009,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable check_all
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
@@ -3335,6 +3337,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imagenBorrar
 id immediateStop
 id included
 id indeterminate
@@ -3565,6 +3568,7 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textViewTarea
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3751,6 +3755,7 @@ layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout ime_base_split_test_activity
 layout ime_secondary_split_test_activity
+layout item_tesoro
 layout lista
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
@@ -3816,6 +3821,7 @@ layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
+raw eliminar
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
