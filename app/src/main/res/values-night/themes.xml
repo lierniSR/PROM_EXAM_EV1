@@ -3,7 +3,7 @@
     <style name="Base.Theme.EXAMEN_PROM" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
         <item name="android:textColor">@color/my_dark_text</item> <!-- Color de texto en modo oscuro -->
-        <item name="android:textColorPrimary">@color/my_dark_text</item> <!-- Color de texto primario en modo oscuro -->
+        <item name="android:textColorPrimary">@color/my_lightDark_primary</item> <!-- Color de texto primario en modo oscuro -->
         <item name="android:textColorSecondary">@color/my_dark_text</item> <!-- Color de texto secundario en modo oscuro -->
     </style>
     <style name="Theme.EXAMEN_PROM" parent="Base.Theme.EXAMEN_PROM" />
