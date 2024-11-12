@@ -3,4 +3,8 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="azul">#2196F3</color>
+    <color name="my_light_primary">#BB86FC</color> <!-- Ejemplo de color primario -->
+    <color name="my_dark_text">#FFFFFF</color> <!-- Color de texto en modo oscuro -->
+    <color name="my_lightDark_primary">#6200EE</color> <!-- Ejemplo de color primario -->
+    <color name="my_light_text">#000000</color> <!-- Color de texto en modo claro -->
 </resources>

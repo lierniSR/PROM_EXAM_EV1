@@ -2092,6 +2092,10 @@ color mtrl_textinput_disabled_color
 color mtrl_textinput_filled_box_default_background_color
 color mtrl_textinput_focused_box_stroke_color
 color mtrl_textinput_hovered_box_stroke_color
+color my_dark_text
+color my_lightDark_primary
+color my_light_primary
+color my_light_text
 color notification_action_color_filter
 color notification_icon_bg_color
 color primary_dark_material_dark
@@ -3822,6 +3826,7 @@ mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
 raw eliminar
+raw eliminar2
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description

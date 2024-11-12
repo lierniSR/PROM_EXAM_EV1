@@ -57,6 +57,8 @@ class TesororLista : AppCompatActivity(){
                 db.deleteTarea(tesoros[posicion].nombre)
                 tesoros.removeAt(posicion)
                 adapter.notifyItemRemoved(posicion)
+                val mediaPlayer2 = MediaPlayer.create(this, R.raw.eliminar2)
+                mediaPlayer2.start()
                 dialog.dismiss()
             }
             .setNegativeButton("No") { dialog, which ->

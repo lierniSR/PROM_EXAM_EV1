@@ -2,6 +2,10 @@
 <resources>
     <color name="azul">#2196F3</color>
     <color name="black">#FF000000</color>
+    <color name="my_dark_text">#FFFFFF</color>
+    <color name="my_lightDark_primary">#6200EE</color>
+    <color name="my_light_primary">#BB86FC</color>
+    <color name="my_light_text">#000000</color>
     <color name="white">#FFFFFFFF</color>
     <string name="aniadir">Añadir tesoro</string>
     <string name="app_name">EXAMEN_PROM</string>
@@ -11,7 +15,10 @@
     <string name="introducirInfo">Introduce las coordenadas</string>
     <style name="Base.Theme.EXAMEN_PROM" parent="Theme.Material3.DayNight.NoActionBar">
         
-        
+        <item name="colorPrimary">@color/my_light_primary</item>
+        <item name="android:textColor">@color/my_light_text</item> 
+        <item name="android:textColorPrimary">@color/my_light_text</item> 
+        <item name="android:textColorSecondary">@color/my_light_text</item> 
     </style>
     <style name="Theme.EXAMEN_PROM" parent="Base.Theme.EXAMEN_PROM"/>
 </resources>

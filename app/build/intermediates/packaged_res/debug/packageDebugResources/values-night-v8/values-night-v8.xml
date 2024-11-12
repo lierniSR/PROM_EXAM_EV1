@@ -2,6 +2,9 @@
 <resources>
     <style name="Base.Theme.EXAMEN_PROM" parent="Theme.Material3.DayNight.NoActionBar">
         
-        
+        <item name="android:textColor">@color/my_dark_text</item> 
+        <item name="android:textColorPrimary">@color/my_dark_text</item> 
+        <item name="android:textColorSecondary">@color/my_dark_text</item> 
     </style>
+    <style name="Theme.EXAMEN_PROM" parent="Base.Theme.EXAMEN_PROM"/>
 </resources>
