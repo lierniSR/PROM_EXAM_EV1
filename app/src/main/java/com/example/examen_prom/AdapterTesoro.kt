@@ -4,6 +4,9 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 
+/**
+ * Clase AdapterTesoro que hereda de RecyclerView.Adapter
+ */
 class AdapterTesoro (private val tesoros:List<Tesoro>, private val onItemDone: (Int) -> Unit):
     RecyclerView.Adapter<ViewTesoro>(){
         /**

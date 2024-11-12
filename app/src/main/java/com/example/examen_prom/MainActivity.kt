@@ -8,6 +8,9 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 
+/**
+ * Clase que hereda de AppCompatActivity
+ */
 class MainActivity : AppCompatActivity() {
     /**
      * Declaracion de variables

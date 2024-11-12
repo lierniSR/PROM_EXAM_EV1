@@ -11,6 +11,9 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 
+/**
+ * Clase que hereda de AppCompatActivity
+ */
 class TesororLista : AppCompatActivity(){
     /**
      * Declaracion de variables

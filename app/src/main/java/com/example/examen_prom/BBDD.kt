@@ -8,9 +8,6 @@ import android.database.sqlite.SQLiteOpenHelper
 /**
 * Creacion de la base de datos y sentencias SQL
 *
-* @param context
-* @author Lierni
-* @version 2.0
 */
 class BBDD (context: Context) : SQLiteOpenHelper(context, DATABASE_NAME, null, DATABASE_VERSION) {
     /**
@@ -102,7 +99,7 @@ class BBDD (context: Context) : SQLiteOpenHelper(context, DATABASE_NAME, null, D
     }
 
     /**
-     * Eliminar una tarea dada su ID
+     * Eliminar una tarea dada su Nombre
      */
     fun deleteTarea(nombre : String){
         val db = writableDatabase

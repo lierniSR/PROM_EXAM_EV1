@@ -5,6 +5,9 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 
+/**
+ * Clase ViewTesoro que hereda de RecyclerView.ViewHolder
+ */
 class ViewTesoro(view : View): RecyclerView.ViewHolder(view)  {
     /**
      * Declaracion de variables
