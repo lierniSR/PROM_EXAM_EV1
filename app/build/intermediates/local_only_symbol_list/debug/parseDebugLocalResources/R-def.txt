@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button
+id main
+id recyclerTesoro
+id texto
+layout activity_main
+layout lista
+mipmap ic_launcher
+mipmap ic_launcher_round
+string aniadir
+string app_name
+string bienvenida
+string btnBienvenida
+string descripcionApp
+string introducirInfo
+style Base.Theme.EXAMEN_PROM
+style Theme.EXAMEN_PROM
+xml backup_rules
+xml data_extraction_rules
