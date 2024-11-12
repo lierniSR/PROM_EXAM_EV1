@@ -1,7 +1,13 @@
 Intento de aplicacion:
 
-Se supone que tiene una ventana de bienvenida con un boton, ese boton debe llevarte a otra ventana con una lista de tesoros.
-En cada item del tesoro se verá una imagen de un mapa que se supone que al clicar tiene que abrirse una ventana con un mapa y ese mismo punto, ya que cad item tiene sus coordenadas.
-Si se elimina el item tiene que salir una alerta de que haber si está seguro de eliminar el item, tambien tiene que llevar un sonido al eliminar.
+Tiene una ventana principal donde se le explica a Lara Croft el funcionamiento de la aplicacion.
+Tiene un boton que le llevara a la lista de los tesoros.
+En esta ventana podrá añadir un tesoro con el siguiente metodo: 
+  Para poder insertar las coordenadas de un tesoro tiene que ser de la siguiente manera : NombreTesoro, 30.45, 70.56 por ejemplo. Tiene que estar separado por comas si no      no va.
+Al querer eliminar un tesoro que se hace mediante el boton de doble check se le preguntara haber si está seguro de eliminarlo, a la vez que saldra un sonidito. 
+Al dar a aceptar se borrara el tesoro tanto de la lista como de la base de datos y saldra otro tipo de sonido.
+No se puede añadir un tesoro vacio.
+El estilo del modo oscuro funciona perfectamente.
+E estado haciendo pruebas en la maquina virtual predeterminada que te viene en Android Studio, es decir una API de 35.
 
-Para poder insertar las coordenadas de un tesoro tiene que ser de la siguiente manera : NombreTesoro, 30.45, 70.56 por ejemplo. Tiene que estar separado por comas si no no va.
+
